@@ -1,0 +1,17 @@
+
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "landingPage": "/",
+  "steps": [
+    {
+      "step": "installTheme",
+      "themeData": {
+        "resource": "url",
+        "url": "https://github.com/porzuc/start/blob/main/start-namyslow.zip"
+      },
+      "options": {
+        "activate": true
+      }
+    }
+  ]
+}

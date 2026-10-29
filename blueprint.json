@@ -7,7 +7,7 @@
       "step": "installTheme",
       "themeData": {
         "resource": "url",
-        "url": "https://github.com/porzuc/start/blob/main/start-namyslow.zip"
+        "url": "https://github.com/porzuc/start/blob/playground-changes-2026-10-29T11-27-07-272Z/start-namyslow2/playground.zip"
       },
       "options": {
         "activate": true

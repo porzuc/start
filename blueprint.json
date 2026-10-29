@@ -7,7 +7,7 @@
       "step": "installTheme",
       "themeData": {
         "resource": "url",
-        "url": "https://github.com/porzuc/start/blob/main/start-namyslow.zip"
+        "url": "https://github.com/porzuc/start/blob/main/wordpress-playground_start.zip"
       },
       "options": {
         "activate": true
